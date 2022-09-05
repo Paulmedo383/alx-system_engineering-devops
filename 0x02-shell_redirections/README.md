@@ -1,1 +1,1 @@
-hello world
+To redirect standard output to a file
