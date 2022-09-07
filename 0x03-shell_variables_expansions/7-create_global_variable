@@ -1,2 +1,2 @@
 #!/bin/bash
-expert School="BEST"
+echo "global School="BEST"
